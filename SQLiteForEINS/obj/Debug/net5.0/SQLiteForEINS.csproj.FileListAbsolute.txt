@@ -1,0 +1,5 @@
+C:\Users\LGerlach\source\repos\SQLiteForEINS\obj\Debug\net5.0\SQLiteForEINS.csprojAssemblyReference.cache
+C:\Users\LGerlach\source\repos\SQLiteForEINS\obj\Debug\net5.0\SQLiteForEINS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LGerlach\source\repos\SQLiteForEINS\obj\Debug\net5.0\SQLiteForEINS.AssemblyInfoInputs.cache
+C:\Users\LGerlach\source\repos\SQLiteForEINS\obj\Debug\net5.0\SQLiteForEINS.AssemblyInfo.cs
+C:\Users\LGerlach\source\repos\SQLiteForEINS\obj\Debug\net5.0\SQLiteForEINS.csproj.CoreCompileInputs.cache
